@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a student of software engineer at [holberton schoold](https://www.holbertonschool.com/co), I've always enjoy learning and coding, and did several side projects, like command shell or a game that teach logic, I've been coding in C#, Python, Javascript and SQL as I build Airbnb clone platform, You can browse my repositories and see! 
+
+I’m currently learning UI and UX if you want to collaborate me to make a fun experience Feel free to let me a message on [Twitter](https://twitter.com/Alafresh1) or [Linkedin](https://www.linkedin.com/in/juangcc/)
+
 <!--
 **Alafresh/Alafresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
