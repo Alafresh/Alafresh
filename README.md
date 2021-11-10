@@ -1,8 +1,10 @@
-### Hi there 👋
+### Hello friend - Hola amigo 👋
 
-I'm a student of software engineer I've always enjoy learning and coding, and did several side projects, like command shell or a game that teaches logic, I've been coding in C#, Python, Javascript and SQL as I build Airbnb clone platform, You can browse my repositories and see! 
+- I'm a student of software engineer I've always enjoy learning and coding / Soy estudiante de ingeniería de software. Me gusta aprender y programar.
+- I’m currently learning UI, UX and game programming / estoy aprendiendo UI, UX y programación de video juegos.
 
-I’m currently learning UI and UX if you want to collaborate with me to make a fun experience Feel free! let me a message on [Twitter](https://twitter.com/Alafresh1) or [Linkedin](https://www.linkedin.com/in/juangcc/)
+## 🤝 To connect with me
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Alafresh1)
 
 <!--
 **Alafresh/Alafresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
