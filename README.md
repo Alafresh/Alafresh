@@ -1,4 +1,4 @@
-### Hello friend - Hola amigo 👋
+### Hello friend 👋
 
 - I'm a student of software engineer I've always enjoy learning and coding / Soy estudiante de ingeniería de software. Me gusta aprender y programar.
 - I’m currently learning UI, UX and game programming / estoy aprendiendo UI, UX y programación de video juegos.
