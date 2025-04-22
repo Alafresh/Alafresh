@@ -9,7 +9,4 @@
 [<img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" />](https://a-la-fresh.itch.io/)
 [<img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" alt="Godot Engine Badge" />](https://2019.spaceappschallenge.org/challenges/planets-near-and-far/build-planet-workshop/teams/cosmic-gnomes/project)
 
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@Alafresh/30-nites-of-code)  
-  ![@Alafresh #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Alafresh)
 
